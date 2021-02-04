@@ -5,36 +5,15 @@
     <title>
         All Employees
     </title>
-    <!-- Bootstrap core CSS -->
-    <link href="../assets/dist/css/bootstrap.min.css" rel="stylesheet">
 
-    <style>
-        .bd-placeholder-img {
-            font-size: 1.125rem;
-            text-anchor: middle;
-            -webkit-user-select: none;
-            -moz-user-select: none;
-            user-select: none;
-        }
-
-        @media (min-width: 768px) {
-            .bd-placeholder-img-lg {
-                font-size: 3.5rem;
-            }
-        }
-    </style>
-
-
-    <!-- Custom styles for this template -->
-    <link href="cheatsheet.css" rel="stylesheet">
 </head>
 
 </head>
 <body>
 
     <h2>All employees</h2><br>
-    <div class="bd-example">
-    <table class="table table-striped">
+    <div>
+    <table>
 
         <tr>
             <th scope="col">Name</th>
